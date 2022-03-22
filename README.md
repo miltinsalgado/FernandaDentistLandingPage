@@ -1,4 +1,4 @@
-## 🦷 Dentist Profile Page 🦷
+## 🦷 Fernanda Dentist Landing Page 🦷
 
 ### Resumo do Projeto 📄
 Criei um landing page baseada no site feito pela Danki Code para a Dra. Fernanda Varella Slovinski, uma dentista renomada e excelente profissional.
