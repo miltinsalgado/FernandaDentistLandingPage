@@ -19,7 +19,7 @@ Todas as informações e imagens são de sua autoria.
 
 O projeto é baseado em um site de uma dentista criado pela equipe do professor Guilherme Grillo da Danki Code.
 
-Essa página possui o design 100% responsivo graças às media queries e principalmente ao display flex, cuja utilização por minha parte foi muito maior do que em outras landing pages fiz. Isso me possibilitou um estudo de CSS3 mais atual, organizado e adaptativo para muitos dispositivos. Além disso, com o display flex consegui criar três estruturas que se tornarão sliders, assim como o menu mobile prototipado. Uma outra novidade é a integração do YouTube pelos iframes, para demonstração dos vídeos da dentista (não aparecem na prévia do projeto). Em breve, irei atualizar esse projeto com JavaScript.
+Essa página possui o design 100% responsivo graças às media queries e principalmente ao display flex, cuja utilização por minha parte foi muito maior do que em outras landing pages fiz. Isso me possibilitou um estudo de CSS3 mais atual, organizado e adaptativo para muitos dispositivos. Além disso, com o display flex consegui criar três estruturas que se tornarão sliders, assim como o menu mobile prototipado. Uma outra novidade é a integração do YouTube pelos iframes, para demonstração dos vídeos da dentista (não aparecem na prévia do projeto).
 
 <hr>
 
