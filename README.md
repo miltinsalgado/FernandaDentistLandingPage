@@ -7,6 +7,7 @@ Todas as informações e imagens são de sua autoria.
 <hr>
 
 ### 🖼️ Prévia do Projeto 🖼️
+
 <div align="center">
     <img height="600em" src="images/demo/landing_page_fernanda_dentist_index.jpg">
 </div>
