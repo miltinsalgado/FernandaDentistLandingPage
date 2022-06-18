@@ -3,7 +3,9 @@
 ### 📄 Resumo do Projeto 📄
 
 Criei um landing page baseada no site feito pela Danki Code para a Dra. Fernanda Varella Slovinski, uma dentista renomada e excelente profissional.
-Todas as informações e imagens são de sua autoria.
+Todas as informações e imagens foram retiradas de seu site, e portanto, são de sua autoria.
+
+Link de referência e direitos autorais: http://fernandaslovinski.com
 
 <hr>
 
