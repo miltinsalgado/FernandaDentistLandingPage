@@ -11,7 +11,7 @@ Link de referência e direitos autorais: http://fernandaslovinski.com
 
 ### 🚀 Apresentação do Projeto 🚀
 
-<a target="_blank" href="https://www.linkedin.com/posts/milton-salgado-0630a1215_html-css-dev-activity-6943745223369867264-vMXC?utm_source=linkedin_share&utm_medium=member_desktop_web">Link para a Apresentação do Projeto<a>
+<a target="_blank" href="https://www.linkedin.com/posts/milton-salgado-leandro_html-css-dev-activity-6943745223369867264-EThl?utm_source=linkedin_share&utm_medium=member_desktop_web">Link para a Apresentação do Projeto<a>
 
 <hr>
 
